@@ -1,0 +1,13 @@
+{
+  "name": "minimal-webpack-with-gulp",
+  "version": "1.0.0",
+  "author": "soarflat",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "velocity-animate": "^1.4.3",
+    "webpack-stream": "^3.2.0"
+  },
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
